@@ -1,0 +1,3 @@
+﻿# The large per-video feature arrays are not tracked in this repository.
+# If you generate them locally, keep them out of Git (see .gitignore)
+# or set up Git LFS in your own fork.

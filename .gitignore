@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+models/
+results/run_*/
+
+# The per-video feature arrays (~1.6 GB) are intentionally not tracked.
+video-features/
